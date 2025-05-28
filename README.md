@@ -4,8 +4,7 @@
 
 1.  **Clone the repository:**
     ```bash
-    git clone <Your-GitHub-Repo-URL>
-    cd <your_project_name>
+    git clone <https://github.com/Abyaskar/Assingment1/blob/main/Assignment1.ipynb>
     ```
 2.  **Place your dataset:**
     Ensure your sales dataset is named `dataset.csv` and is placed in the root directory of the project, alongside the `Assignment1.ipynb` notebook.
